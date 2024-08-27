@@ -1,4 +1,7 @@
-How to Play:
+# Hangman Game 🎮
+Hangman is a classic word-guessing game implemented as a text-based Python program. The game challenges the player to uncover a randomly selected word by guessing one letter at a time. The player must guess the word before running out of allowed incorrect guesses.
+
+## How to Play:
 The program selects a random word from a predefined list.
 The word is initially hidden, represented by underscores (_), with each underscore corresponding to a letter in the word.
 The player guesses one letter at a time.
